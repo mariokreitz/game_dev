@@ -1,27 +1,28 @@
-# Canvas Projects
+# Canvas Projects 🎨🎶
 
-This repository contains the following folders:
+Welcome to my **Canvas Projects** repository—a place where I explore, experiment, and track my progress with the **Canvas** element and **Web Audio API**. Each project here is a hands-on step in my journey to understand web-based visuals and audio effects.
 
-### [About](about)
+## Project Collection
 
-This repository is a collection of small projects that demonstrate how to use the Canvas element and the Web Audio API. It is meant to be used as a reference and a learning resource.
+- **[Audio Visual Effects](audio_visual_effects)** 🎧  
+  Dive into audio visualizations! Here, I’m learning how to sync audio with dynamic visuals using Canvas and the Web Audio API.
 
-### [Audio Visual Effects](audio_visual_effects)
+- **[Collision Detection](collision_detection)** 🎯  
+  Practicing collision detection between circles—a fundamental for any interactive canvas project.
 
-A project that demonstrates how to create audio visual effects using the Web Audio API and the Canvas element.
+- **[Flying Creatures](flying_creatures)** 🦋  
+  Bringing motion to the canvas by animating "creatures" that move around the screen.
 
-### [Collision Detection](collusion_detection)
+- **[Parallax Effect](parallax)** 🌌  
+  Adding depth through parallax, creating a sense of layers and perspective.
 
-A project that demonstrates how to detect collisions between two circles.
+- **[Sprite Animation](sprite_animation)** 🎞️  
+  Exploring frame-by-frame animation techniques for sprites to make them come to life.
 
-### [Flying Creatures](flying_creatures)
+Each folder documents my progress and includes code snippets, notes, and setup instructions. It’s my learning playground, capturing every new technique as I grow in this space!
 
-A project that demonstrates how to create flying creatures that move around the screen using the Canvas element.
+## Credits
 
-### [Parallax](parallax)
+The flying creatures art assets were created by [Bevouliin](https://bevouliin.com/). Check out his website for more game art assets! 🎨
 
-A project that demonstrates how to create a parallax effect using the Canvas element.
-
-### [Sprite Animation](sprite_animation)
-
-A project that demonstrates how to create a sprite animation using the Canvas element.
+The sound effects in the flying creatures project are from [opengameart.org](https://opengameart.org/content/magic-sfx-sample) and were created by [ViRiX](https://opengameart.org/users/virix). Thanks for the awesome assets! 🎵
