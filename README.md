@@ -19,7 +19,6 @@ Welcome to my **Canvas Projects** repository—a place where I explore, experime
 - **[Sprite Animation](sprite_animation)** 🎞️  
   Exploring frame-by-frame animation techniques for sprites to make them come to life.
 
-Each folder documents my progress and includes code snippets, notes, and setup instructions. It’s my learning playground, capturing every new technique as I grow in this space!
 
 ## Credits
 
