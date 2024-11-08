@@ -29,7 +29,7 @@ Each folder serves as a learning module with code snippets, notes, and setup ins
 
 ## 🔥 Project Highlight: Raven Hunter
 
-The **[Raven Hunter](https://github.com/AndreiDoroshin/raven-hunter)** project brings these elements together, integrating Canvas animation, collision detection, and dynamic effects. It serves as both a showcase of my progress and a test of my ability to combine multiple techniques into a cohesive game environment.
+The **[Raven Hunter](https://github.com/mariokreitz/raven-hunter)** project brings these elements together, integrating Canvas animation, collision detection, and dynamic effects. It serves as both a showcase of my progress and a test of my ability to combine multiple techniques into a cohesive game environment.
 
 ## 🎨 Credits
 
