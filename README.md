@@ -1,7 +1,3 @@
-Absolutely! Here’s the README with **simple_side_scroller** presented as another project, similar to **Raven Hunter**:
-
----
-
 # Canvas Projects 🎨🎶
 
 Welcome to my **Canvas Projects** repository—a creative hub where I experiment, learn, and document my journey with the **Canvas** element and **Web Audio API**. Each project here is a stepping stone towards mastering web-based visuals, immersive audio, and clean, organized code.
@@ -54,7 +50,3 @@ Special thanks to the artists whose assets brought these projects to life:
 
 - **Flying Creatures Art Assets**: Created by [Bevouliin](https://bevouliin.com/). Explore his website for amazing game art! 🎨
 - **Sound Effects**: Found on [opengameart.org](https://opengameart.org/content/magic-sfx-sample), created by [ViRiX](https://opengameart.org/users/virix), adding depth to the audio experience. 🎵
-
----
-
-This should provide **simple_side_scroller** with a more prominent role alongside **Raven Hunter** in your README!
