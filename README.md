@@ -32,7 +32,7 @@ Welcome to my **Canvas Projects** repository—a creative hub where I experiment
 
 This project captures key gameplay elements—scoring, character movement, and debugging—that build on skills from the **game_dev** repository.
 
-### 🏹 [Raven Hunter](https://github.com/mariokreitz/raven-hunter)  [![Netlify Status](https://api.netlify.com/api/v1/badges/2ff2ba82-c25c-426a-b548-589852dfe566/deploy-status)](https://app.netlify.com/sites/raven-hunt/deploys) [test](https://raven-hunt.netlify.app/)
+### 🏹 [Raven Hunter](https://github.com/mariokreitz/raven-hunter) [![Netlify Status](https://api.netlify.com/api/v1/badges/2ff2ba82-c25c-426a-b548-589852dfe566/deploy-status)](https://app.netlify.com/sites/raven-hunt/deploys) [test](https://raven-hunt.netlify.app/)
 
 **Raven Hunter** is another key project that integrates Canvas animations, collision detection, and dynamic effects, bringing together various techniques from the Canvas Projects repository into a cohesive game experience. It serves as a showcase of my progress and my ability to create engaging, interactive environments.
 
