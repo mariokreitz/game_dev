@@ -1,3 +1,7 @@
+Absolutely! Here’s the README with **simple_side_scroller** presented as another project, similar to **Raven Hunter**:
+
+---
+
 # Canvas Projects 🎨🎶
 
 Welcome to my **Canvas Projects** repository—a creative hub where I experiment, learn, and document my journey with the **Canvas** element and **Web Audio API**. Each project here is a stepping stone towards mastering web-based visuals, immersive audio, and clean, organized code.
@@ -19,17 +23,30 @@ Welcome to my **Canvas Projects** repository—a creative hub where I experiment
 - **[Sprite Animation](sprite_animation)** 🎞️  
   Delving into frame-by-frame sprite animation to animate characters and objects—a foundational technique for lively, interactive experiences.
 
+## 🎮 Featured Projects
+
+### [Simple Side Scroller](simple_side_scroller) 🕹️
+
+**Simple Side Scroller** is a 2D game where players earn points by jumping over enemies, showcasing my growth in web game development. It’s based on my **game_dev** repository and features:
+
+- **Fullscreen Mode**: Switch to fullscreen for immersive gameplay.
+- **Debug Mode**: Toggle hitboxes around the player and enemies, a "debug" indicator, and an FPS counter.
+- **Restart Functionality**: Tap on mobile or press Enter on desktop to restart the game.
+- **Mobile Compatibility**: Play on mobile with jump controls (no left/right movement), allowing easy on-the-go gameplay.
+
+This project captures key gameplay elements—scoring, character movement, and debugging—that build on skills from the **game_dev** repository.
+
+### [Raven Hunter](https://github.com/AndreiDoroshin/raven-hunter)
+
+**Raven Hunter** is another key project that integrates Canvas animations, collision detection, and dynamic effects, bringing together various techniques from the Canvas Projects repository into a cohesive game experience. It serves as a showcase of my progress and my ability to create engaging, interactive environments.
+
 ## 📂 Code Structure and Class Organization
 
-In this repository, I also explore modular code organization in the **code_structure** folder. Here, I focus on class structures, encapsulation, and naming conventions:
+This repository also explores modular code organization in the **code_structure** folder, where I apply object-oriented principles, encapsulation, and naming conventions:
 
-- Inside the **classes** directory, files like `enemies.class.js` highlight my progress in object-oriented principles and modular code design. This organization ensures clean, maintainable, and scalable code that’s easy to expand as projects grow.
+- Inside the **classes** directory, files like `enemies.class.js` demonstrate my learning in class structures and modular design, keeping code organized and scalable.
 
-Each folder serves as a learning module with code snippets, notes, and setup instructions. This space is my creative lab, capturing every new concept and skill as I grow in game development and web graphics!
-
-## 🔥 Project Highlight: Raven Hunter
-
-The **[Raven Hunter](https://github.com/mariokreitz/raven-hunter)** project brings these elements together, integrating Canvas animation, collision detection, and dynamic effects. It serves as both a showcase of my progress and a test of my ability to combine multiple techniques into a cohesive game environment.
+Each folder serves as a learning module with code snippets, notes, and setup instructions, capturing each new concept and skill as I grow in game development and web graphics!
 
 ## 🎨 Credits
 
@@ -37,3 +54,7 @@ Special thanks to the artists whose assets brought these projects to life:
 
 - **Flying Creatures Art Assets**: Created by [Bevouliin](https://bevouliin.com/). Explore his website for amazing game art! 🎨
 - **Sound Effects**: Found on [opengameart.org](https://opengameart.org/content/magic-sfx-sample), created by [ViRiX](https://opengameart.org/users/virix), adding depth to the audio experience. 🎵
+
+---
+
+This should provide **simple_side_scroller** with a more prominent role alongside **Raven Hunter** in your README!
