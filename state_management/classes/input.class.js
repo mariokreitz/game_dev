@@ -1,5 +1,17 @@
+/**
+ * Handles keyboard input
+ * @class
+ */
 export default class InputHandler {
+  /**
+   * Creates an instance of InputHandler
+   * @constructor
+   */
   constructor() {
+    /**
+     * The last key pressed
+     * @type {string}
+     */
     this.lastKey = "";
     window.addEventListener("keydown", (e) => {
       switch (e.key) {
