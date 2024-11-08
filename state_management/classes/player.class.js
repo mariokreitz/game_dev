@@ -11,7 +11,18 @@ import {
   FallingRight,
 } from "./state.class.js";
 
+/**
+ * @class Player
+ * @description The player class that handles player movement and state.
+ * @param {number} gameWidth - The width of the game.
+ * @param {number} gameHeight - The height of the game.
+ */
 export default class Player {
+  /**
+   * @constructor
+   * @param {number} gameWidth - The width of the game.
+   * @param {number} gameHeight - The height of the game.
+   */
   constructor(gameWidth, gameHeight) {
     this.gameWidth = gameWidth;
     this.gameHeight = gameHeight;
@@ -45,6 +56,12 @@ export default class Player {
     this.frameInterval = 1000 / this.fps;
   }
 
+  /**
+   * @function draw
+   * @description Draw the player on the canvas.
+   * @param {CanvasRenderingContext2D} ctx - The canvas context.
+   * @param {number} deltaTime - The time since the last frame.
+   */
   draw(ctx, deltaTime) {
     if (this.frameTimer > this.frameInterval) {
       if (this.frameX < this.maxFrame) this.frameX++;
@@ -64,6 +81,11 @@ export default class Player {
     );
   }
 
+  /**
+   * @function update
+   * @description Update the player position and state.
+   * @param {Object} input - The input from the user.
+   */
   update(input) {
     this.currentState.handleInput(input);
     //horizontal movement
@@ -80,11 +102,21 @@ export default class Player {
     if (this.y > this.gameHeight - this.height) this.y = this.gameHeight - this.height;
   }
 
+  /**
+   * @function setState
+   * @description Set the player state.
+   * @param {number} state - The index of the state to set.
+   */
   setState(state) {
     this.currentState = this.states[state];
     this.currentState.enter();
   }
 
+  /**
+   * @function onGround
+   * @description Check if the player is on the ground.
+   * @returns {boolean} True if the player is on the ground.
+   */
   onGround() {
     return this.y >= this.gameHeight - this.height;
   }
