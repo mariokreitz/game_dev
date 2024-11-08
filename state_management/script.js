@@ -1,6 +1,30 @@
+/**
+ * @module
+ * @description State management
+ * @requires ./classes/player.class.js
+ * @requires ./classes/input.class.js
+ * @requires ./classes/utils.class.js
+ */
 import Player from "./classes/player.class.js";
+/**
+ * Player class
+ * @type {Player}
+ */
 import InputHandler from "./classes/input.class.js";
+/**
+ * InputHandler class
+ * @type {InputHandler}
+ */
 import { drawStatusText } from "./classes/utils.class.js";
+/**
+ * drawStatusText function
+ * @type {function}
+ * @param {CanvasRenderingContext2D} ctx - The canvas context
+ * @param {InputHandler} input - The input handler
+ * @param {Player} player - The player
+ * @description Draws the status text on the canvas
+ * @since 1.0.0
+ */
 
 window.addEventListener("load", function () {
   const loading = document.getElementById("loading");
@@ -17,6 +41,12 @@ window.addEventListener("load", function () {
 
   let lastTime = 0;
 
+  /**
+   * The animate function
+   * @type {function}
+   * @param {number} timeStamp - The timestamp
+   * @description Animates the game
+   */
   function animate(timeStamp) {
     const deltaTime = timeStamp - lastTime;
     lastTime = timeStamp;
