@@ -25,6 +25,10 @@ This repository also includes a **code_structure** folder, where I dive into cla
 
 Each folder documents my progress with code snippets, notes, and setup instructions. It’s my learning playground, capturing every new skill and concept as I grow in game development and web graphics!
 
+## Project: Raven Hunter
+
+["Raven Hunter"](https://github.com/AndreiDoroshin/raven-hunter) brings these elements together, focusing on Canvas animation, collision detection, and dynamic effects, and lets me track how these skills evolve with each project. It’s both a practice ground and a showcase of my progress in game development.
+
 ## Credits
 
 The flying creatures art assets were created by [Bevouliin](https://bevouliin.com/). Check out his website for more game art assets! 🎨
