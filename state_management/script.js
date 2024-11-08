@@ -1,4 +1,5 @@
 import Player from "./classes/player.class.js";
+import InputHandler from "./classes/input.class.js";
 
 window.addEventListener("load", function () {
   const loading = document.getElementById("loading");
@@ -12,4 +13,6 @@ window.addEventListener("load", function () {
 
   const player = new Player(canvas.width, canvas.height);
   player.draw(ctx);
+  const input = new InputHandler();
+  console.log(input.lastKey);
 });
